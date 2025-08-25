@@ -55,7 +55,7 @@ public class Main {
         }
 
         // Borrar la bodega
-        Long idABorrar = 5L;  // Reemplaza 5L con el ID que quieras eliminar
+        Long idABorrar = 1L;  // Reemplaza con el ID que quieras eliminar
 
             try {
             bodegaCRUD.borrar(idABorrar);
